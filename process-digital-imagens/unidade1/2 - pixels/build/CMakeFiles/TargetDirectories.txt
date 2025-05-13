@@ -1,0 +1,3 @@
+/home/rafae/Documentos/UFRN/PDI - Processamento Digital de Sinais/unidade1/2 - pixels/build/CMakeFiles/pixels.dir
+/home/rafae/Documentos/UFRN/PDI - Processamento Digital de Sinais/unidade1/2 - pixels/build/CMakeFiles/edit_cache.dir
+/home/rafae/Documentos/UFRN/PDI - Processamento Digital de Sinais/unidade1/2 - pixels/build/CMakeFiles/rebuild_cache.dir

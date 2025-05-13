@@ -1,0 +1,3 @@
+/home/rafae/Documentos/UFRN/process-digital-imagens/unidade1/8 - tiltshift/build/CMakeFiles/tiltshift.dir
+/home/rafae/Documentos/UFRN/process-digital-imagens/unidade1/8 - tiltshift/build/CMakeFiles/edit_cache.dir
+/home/rafae/Documentos/UFRN/process-digital-imagens/unidade1/8 - tiltshift/build/CMakeFiles/rebuild_cache.dir

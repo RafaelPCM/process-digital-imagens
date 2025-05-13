@@ -1,0 +1,3 @@
+/home/rafae/Documentos/UFRN/process-digital-imagens/unidade1/6 - histogram/build/CMakeFiles/histograma.dir
+/home/rafae/Documentos/UFRN/process-digital-imagens/unidade1/6 - histogram/build/CMakeFiles/edit_cache.dir
+/home/rafae/Documentos/UFRN/process-digital-imagens/unidade1/6 - histogram/build/CMakeFiles/rebuild_cache.dir
