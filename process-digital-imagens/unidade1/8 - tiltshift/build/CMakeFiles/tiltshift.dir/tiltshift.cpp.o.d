@@ -1,5 +1,5 @@
 CMakeFiles/tiltshift.dir/tiltshift.cpp.o: \
- /home/rafae/Documentos/UFRN/processamento-digital-imagens/parte\ 1/8\ -\ tiltshift/tiltshift.cpp \
+ /home/rafae/Documentos/UFRN/process-digital-imagens/parte\ 1/8\ -\ tiltshift/tiltshift.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/13/iostream \
  /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \

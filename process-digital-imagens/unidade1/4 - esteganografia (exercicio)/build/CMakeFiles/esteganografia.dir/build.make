@@ -70,7 +70,7 @@ include CMakeFiles/esteganografia.dir/progress.make
 include CMakeFiles/esteganografia.dir/flags.make
 
 CMakeFiles/esteganografia.dir/esteganografia.cpp.o: CMakeFiles/esteganografia.dir/flags.make
-CMakeFiles/esteganografia.dir/esteganografia.cpp.o: /home/rafae/Documentos/UFRN/processamento-digital-imagens/parte\ 1/4\ -\ esteganografia\ (exercicio)/esteganografia.cpp
+CMakeFiles/esteganografia.dir/esteganografia.cpp.o: /home/rafae/Documentos/UFRN/process-digital-imagens/parte\ 1/4\ -\ esteganografia\ (exercicio)/esteganografia.cpp
 CMakeFiles/esteganografia.dir/esteganografia.cpp.o: CMakeFiles/esteganografia.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/home/rafae/Documentos/UFRN/process-digital-imagens/unidade1/4 - esteganografia (exercicio)/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/esteganografia.dir/esteganografia.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/esteganografia.dir/esteganografia.cpp.o -MF CMakeFiles/esteganografia.dir/esteganografia.cpp.o.d -o CMakeFiles/esteganografia.dir/esteganografia.cpp.o -c "/home/rafae/Documentos/UFRN/process-digital-imagens/unidade1/4 - esteganografia (exercicio)/esteganografia.cpp"

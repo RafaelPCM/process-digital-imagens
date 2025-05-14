@@ -70,7 +70,7 @@ include CMakeFiles/labeling.dir/progress.make
 include CMakeFiles/labeling.dir/flags.make
 
 CMakeFiles/labeling.dir/labeling.cpp.o: CMakeFiles/labeling.dir/flags.make
-CMakeFiles/labeling.dir/labeling.cpp.o: /home/rafae/Documentos/UFRN/processamento-digital-imagens/parte\ 1/5\ -\ labeling/labeling.cpp
+CMakeFiles/labeling.dir/labeling.cpp.o: /home/rafae/Documentos/UFRN/process-digital-imagens/parte\ 1/5\ -\ labeling/labeling.cpp
 CMakeFiles/labeling.dir/labeling.cpp.o: CMakeFiles/labeling.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/home/rafae/Documentos/UFRN/process-digital-imagens/unidade1/5 - labeling/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/labeling.dir/labeling.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/labeling.dir/labeling.cpp.o -MF CMakeFiles/labeling.dir/labeling.cpp.o.d -o CMakeFiles/labeling.dir/labeling.cpp.o -c "/home/rafae/Documentos/UFRN/process-digital-imagens/unidade1/5 - labeling/labeling.cpp"

@@ -70,7 +70,7 @@ include CMakeFiles/filestorage.dir/progress.make
 include CMakeFiles/filestorage.dir/flags.make
 
 CMakeFiles/filestorage.dir/filestorage.cpp.o: CMakeFiles/filestorage.dir/flags.make
-CMakeFiles/filestorage.dir/filestorage.cpp.o: /home/rafae/Documentos/UFRN/processamento-digital-imagens/parte\ 1/3\ -\ filestorage\ (exercicio)/filestorage.cpp
+CMakeFiles/filestorage.dir/filestorage.cpp.o: /home/rafae/Documentos/UFRN/process-digital-imagens/parte\ 1/3\ -\ filestorage\ (exercicio)/filestorage.cpp
 CMakeFiles/filestorage.dir/filestorage.cpp.o: CMakeFiles/filestorage.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/home/rafae/Documentos/UFRN/process-digital-imagens/unidade1/3 - filestorage (exercicio)/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/filestorage.dir/filestorage.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/filestorage.dir/filestorage.cpp.o -MF CMakeFiles/filestorage.dir/filestorage.cpp.o.d -o CMakeFiles/filestorage.dir/filestorage.cpp.o -c "/home/rafae/Documentos/UFRN/process-digital-imagens/unidade1/3 - filestorage (exercicio)/filestorage.cpp"

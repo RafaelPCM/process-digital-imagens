@@ -70,7 +70,7 @@ include CMakeFiles/bitplanes.dir/progress.make
 include CMakeFiles/bitplanes.dir/flags.make
 
 CMakeFiles/bitplanes.dir/bitplanes.cpp.o: CMakeFiles/bitplanes.dir/flags.make
-CMakeFiles/bitplanes.dir/bitplanes.cpp.o: /home/rafae/Documentos/UFRN/processamento-digital-imagens/parte\ 1/4\ -\ bitplanes/bitplanes.cpp
+CMakeFiles/bitplanes.dir/bitplanes.cpp.o: /home/rafae/Documentos/UFRN/process-digital-imagens/parte\ 1/4\ -\ bitplanes/bitplanes.cpp
 CMakeFiles/bitplanes.dir/bitplanes.cpp.o: CMakeFiles/bitplanes.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/home/rafae/Documentos/UFRN/process-digital-imagens/unidade1/4 - bitplanes/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/bitplanes.dir/bitplanes.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/bitplanes.dir/bitplanes.cpp.o -MF CMakeFiles/bitplanes.dir/bitplanes.cpp.o.d -o CMakeFiles/bitplanes.dir/bitplanes.cpp.o -c "/home/rafae/Documentos/UFRN/process-digital-imagens/unidade1/4 - bitplanes/bitplanes.cpp"

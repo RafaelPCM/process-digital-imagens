@@ -70,7 +70,7 @@ include CMakeFiles/regions.dir/progress.make
 include CMakeFiles/regions.dir/flags.make
 
 CMakeFiles/regions.dir/regions.cpp.o: CMakeFiles/regions.dir/flags.make
-CMakeFiles/regions.dir/regions.cpp.o: /home/rafae/Documentos/UFRN/processamento-digital-imagens/parte\ 1/2\ -\ regions\ (exercicio)/regions.cpp
+CMakeFiles/regions.dir/regions.cpp.o: /home/rafae/Documentos/UFRN/process-digital-imagens/parte\ 1/2\ -\ regions\ (exercicio)/regions.cpp
 CMakeFiles/regions.dir/regions.cpp.o: CMakeFiles/regions.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/home/rafae/Documentos/UFRN/process-digital-imagens/unidade1/2 - regions (exercicio)/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/regions.dir/regions.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/regions.dir/regions.cpp.o -MF CMakeFiles/regions.dir/regions.cpp.o.d -o CMakeFiles/regions.dir/regions.cpp.o -c "/home/rafae/Documentos/UFRN/process-digital-imagens/unidade1/2 - regions (exercicio)/regions.cpp"

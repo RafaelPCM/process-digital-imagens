@@ -1,5 +1,5 @@
 CMakeFiles/convolucao.dir/convolucao.cpp.o: \
- /home/rafae/Documentos/UFRN/processamento-digital-imagens/parte\ 1/7\ -\ convolucao/convolucao.cpp \
+ /home/rafae/Documentos/UFRN/process-digital-imagens/parte\ 1/7\ -\ convolucao/convolucao.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/13/iostream \
  /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
@@ -350,4 +350,4 @@ CMakeFiles/convolucao.dir/convolucao.cpp.o: \
  /usr/include/opencv4/opencv2/video.hpp \
  /usr/include/opencv4/opencv2/video/tracking.hpp \
  /usr/include/opencv4/opencv2/video/background_segm.hpp \
- /home/rafae/Documentos/UFRN/processamento-digital-imagens/parte\ 1/7\ -\ convolucao/camera.hpp
+ /home/rafae/Documentos/UFRN/process-digital-imagens/parte\ 1/7\ -\ convolucao/camera.hpp

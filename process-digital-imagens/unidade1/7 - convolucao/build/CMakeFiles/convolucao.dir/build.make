@@ -70,7 +70,7 @@ include CMakeFiles/convolucao.dir/progress.make
 include CMakeFiles/convolucao.dir/flags.make
 
 CMakeFiles/convolucao.dir/convolucao.cpp.o: CMakeFiles/convolucao.dir/flags.make
-CMakeFiles/convolucao.dir/convolucao.cpp.o: /home/rafae/Documentos/UFRN/processamento-digital-imagens/parte\ 1/7\ -\ convolucao/convolucao.cpp
+CMakeFiles/convolucao.dir/convolucao.cpp.o: /home/rafae/Documentos/UFRN/process-digital-imagens/parte\ 1/7\ -\ convolucao/convolucao.cpp
 CMakeFiles/convolucao.dir/convolucao.cpp.o: CMakeFiles/convolucao.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/home/rafae/Documentos/UFRN/process-digital-imagens/unidade1/7 - convolucao/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/convolucao.dir/convolucao.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/convolucao.dir/convolucao.cpp.o -MF CMakeFiles/convolucao.dir/convolucao.cpp.o.d -o CMakeFiles/convolucao.dir/convolucao.cpp.o -c "/home/rafae/Documentos/UFRN/process-digital-imagens/unidade1/7 - convolucao/convolucao.cpp"

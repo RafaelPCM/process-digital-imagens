@@ -70,7 +70,7 @@ include CMakeFiles/tiltshift.dir/progress.make
 include CMakeFiles/tiltshift.dir/flags.make
 
 CMakeFiles/tiltshift.dir/tiltshift.cpp.o: CMakeFiles/tiltshift.dir/flags.make
-CMakeFiles/tiltshift.dir/tiltshift.cpp.o: /home/rafae/Documentos/UFRN/processamento-digital-imagens/parte\ 1/8\ -\ tiltshift/tiltshift.cpp
+CMakeFiles/tiltshift.dir/tiltshift.cpp.o: /home/rafae/Documentos/UFRN/process-digital-imagens/parte\ 1/8\ -\ tiltshift/tiltshift.cpp
 CMakeFiles/tiltshift.dir/tiltshift.cpp.o: CMakeFiles/tiltshift.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/home/rafae/Documentos/UFRN/process-digital-imagens/unidade1/8 - tiltshift/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/tiltshift.dir/tiltshift.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tiltshift.dir/tiltshift.cpp.o -MF CMakeFiles/tiltshift.dir/tiltshift.cpp.o.d -o CMakeFiles/tiltshift.dir/tiltshift.cpp.o -c "/home/rafae/Documentos/UFRN/process-digital-imagens/unidade1/8 - tiltshift/tiltshift.cpp"

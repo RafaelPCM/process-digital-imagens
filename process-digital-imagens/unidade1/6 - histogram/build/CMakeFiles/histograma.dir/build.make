@@ -70,7 +70,7 @@ include CMakeFiles/histograma.dir/progress.make
 include CMakeFiles/histograma.dir/flags.make
 
 CMakeFiles/histograma.dir/histograma.cpp.o: CMakeFiles/histograma.dir/flags.make
-CMakeFiles/histograma.dir/histograma.cpp.o: /home/rafae/Documentos/UFRN/processamento-digital-imagens/parte\ 1/6\ -\ histogram/histograma.cpp
+CMakeFiles/histograma.dir/histograma.cpp.o: /home/rafae/Documentos/UFRN/process-digital-imagens/parte\ 1/6\ -\ histogram/histograma.cpp
 CMakeFiles/histograma.dir/histograma.cpp.o: CMakeFiles/histograma.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/home/rafae/Documentos/UFRN/process-digital-imagens/unidade1/6 - histogram/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/histograma.dir/histograma.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/histograma.dir/histograma.cpp.o -MF CMakeFiles/histograma.dir/histograma.cpp.o.d -o CMakeFiles/histograma.dir/histograma.cpp.o -c "/home/rafae/Documentos/UFRN/process-digital-imagens/unidade1/6 - histogram/histograma.cpp"
